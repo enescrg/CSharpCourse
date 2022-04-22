@@ -1,0 +1,8 @@
+D:\BTK Akademi\C#\CSharpCourse\Classes\bin\Debug\Classes.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Classes\bin\Debug\Classes.exe
+D:\BTK Akademi\C#\CSharpCourse\Classes\bin\Debug\Classes.pdb
+D:\BTK Akademi\C#\CSharpCourse\Classes\obj\Debug\10.Classes.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Classes\obj\Debug\10.Classes.csproj.SuggestedBindingRedirects.cache
+D:\BTK Akademi\C#\CSharpCourse\Classes\obj\Debug\10.Classes.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Classes\obj\Debug\Classes.exe
+D:\BTK Akademi\C#\CSharpCourse\Classes\obj\Debug\Classes.pdb
