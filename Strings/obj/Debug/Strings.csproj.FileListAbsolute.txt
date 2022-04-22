@@ -1,0 +1,8 @@
+D:\BTK Akademi\C#\CSharpCourse\Strings\bin\Debug\Strings.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Strings\bin\Debug\Strings.exe
+D:\BTK Akademi\C#\CSharpCourse\Strings\bin\Debug\Strings.pdb
+D:\BTK Akademi\C#\CSharpCourse\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+D:\BTK Akademi\C#\CSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Strings\obj\Debug\Strings.exe
+D:\BTK Akademi\C#\CSharpCourse\Strings\obj\Debug\Strings.pdb

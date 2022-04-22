@@ -1,0 +1,8 @@
+D:\BTK Akademi\C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+D:\BTK Akademi\C#\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+D:\BTK Akademi\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\BTK Akademi\C#\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+D:\BTK Akademi\C#\CSharpCourse\Arrays\obj\Debug\Arrays.pdb

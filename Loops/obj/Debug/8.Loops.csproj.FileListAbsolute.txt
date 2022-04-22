@@ -1,0 +1,8 @@
+D:\BTK Akademi\C#\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Loops\bin\Debug\Loops.exe
+D:\BTK Akademi\C#\CSharpCourse\Loops\bin\Debug\Loops.pdb
+D:\BTK Akademi\C#\CSharpCourse\Loops\obj\Debug\8.Loops.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Loops\obj\Debug\8.Loops.csproj.SuggestedBindingRedirects.cache
+D:\BTK Akademi\C#\CSharpCourse\Loops\obj\Debug\8.Loops.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Loops\obj\Debug\Loops.exe
+D:\BTK Akademi\C#\CSharpCourse\Loops\obj\Debug\Loops.pdb

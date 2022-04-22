@@ -1,0 +1,8 @@
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+D:\BTK Akademi\C#\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
