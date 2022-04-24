@@ -1,0 +1,7 @@
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\obj\Debug\4.TypesAndVariables.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\obj\Debug\4.TypesAndVariables.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+D:\BTK Akademi\C#\CSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb
