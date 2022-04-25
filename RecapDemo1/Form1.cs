@@ -15,7 +15,7 @@ namespace RecapDemo1
 
 
             //uygulama açıldığında ilk çalışacak kod burasıdır
-            //desing sayfasına konulan buton, bir class'tır
+            //desing sayfasına konulan buton, bu bir class'tır
             //for döngüsüyle yapılabilinir
             //ancak bunda 64 tanesini üst üste yazacaktır
             //ve oluşturduğumuz referanslara ulaşamayacağız, nesneye erişim sıkıntı
@@ -30,7 +30,7 @@ namespace RecapDemo1
 
             //daha profesyonel çalışmak için Array'lardan yararlanılır
             GenerateButtons();//yazıklarımızı bir method haline getirdik
-
+            
         }
 
         private void GenerateButtons()
