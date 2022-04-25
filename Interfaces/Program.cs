@@ -10,6 +10,22 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
+            //InterfacesIntro();
+            //bir interfaces new yapılamaz çünkü tek başına bir anlamı yoktur, Interfaces ve Abstract soyut nesnelerdir
+            //2. örnekte dosyalarla çalışacağız, farklı teknikleri de görmek için
+
+            CustomerManager customerManager = new CustomerManager();
+            //altta new'lediğimizde kolaylıkla veritabanları arasında geçiş yapabiliyoruz
+            customerManager.Add(new SqlServerCustomerDal());
+            //gerçek hayatta Interface'leri katmanlar arası geçişlerde sıklıkla kullanıyoruz
+            //bundaki amaç uygulamanın bağımlılıklarını en aza indirgemek
+
+            Console.ReadLine();
+        }
+
+        //aşağıdakini refactor yaptık | daha sonra baktığımızda dursun diye
+        private static void InterfacesIntro()
+        {
             PersonManager manager = new PersonManager(); //PersonManager class'ını çağırıyoruz
             Customer customer = new Customer
             {
@@ -21,21 +37,18 @@ namespace Interfaces
             manager.Add(customer);
 
             //Aşağıdaki şekilde de yazılabilinir tamamen yazım tekniği ile alakalı
-            manager.Add(new Customer {Id = 2,FirstName="Engin",LastName="Demiroğ",Address="Ankara"});
+            manager.Add(new Customer { Id = 2, FirstName = "Engin", LastName = "Demiroğ", Address = "Ankara" });
 
-            Student student = new Student 
-            { 
-                Id=1,
+            Student student = new Student
+            {
+                Id = 1,
                 FirstName = "Halil",
                 LastName = "Kaya",
                 Departmant = "Teacher"
             };
             manager.Add(student);
 
-            manager.Add(new Student {Id=2, FirstName = "Ali Eymen", LastName = "Tekiner",Departmant=" "});
-
-
-            Console.ReadLine();
+            manager.Add(new Student { Id = 2, FirstName = "Ali Eymen", LastName = "Tekiner", Departmant = " " });
         }
     }
     //Interface soyut nesnedir
