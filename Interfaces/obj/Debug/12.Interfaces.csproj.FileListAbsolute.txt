@@ -1,0 +1,7 @@
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\obj\Debug\12.Interfaces.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\obj\Debug\12.Interfaces.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+D:\BTK Akademi\C#\CSharpCourse\Interfaces\obj\Debug\Interfaces.pdb

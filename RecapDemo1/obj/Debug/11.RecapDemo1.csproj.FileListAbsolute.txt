@@ -1,0 +1,10 @@
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\11.RecapDemo1.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\11.RecapDemo1.csproj.GenerateResource.cache
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\11.RecapDemo1.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+D:\BTK Akademi\C#\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
