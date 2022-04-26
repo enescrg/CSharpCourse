@@ -34,7 +34,7 @@ namespace Interfaces
     {
         public void Add()
         {
-            Console.WriteLine(" Oracle Added");
+            Console.WriteLine("Oracle Added");
         }
 
         public void Delete()
@@ -48,6 +48,24 @@ namespace Interfaces
         }
     }
 
+    //yeni bir veritabanı eklendiğinde programımı bozmak durumunda kalmayacağız
+    class MySqlCustomerDal : ICustomerDal
+    {
+        public void Add()
+        {
+            Console.WriteLine("MySql Added");
+        }
+
+        public void Delete()
+        {
+            Console.WriteLine("MySql Deleted");
+        }
+
+        public void Update()
+        {
+            Console.WriteLine("MySql Updated");
+        }
+    }
     class CustomerManager
     {
         //parametre olarak ınterface'i vereiğimizde gelecekte farklı veritabanıyla çalışılırsa kolaylıkla geçiş yapılabilinir

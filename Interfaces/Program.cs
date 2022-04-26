@@ -14,13 +14,38 @@ namespace Interfaces
             //bir interfaces new yapılamaz çünkü tek başına bir anlamı yoktur, Interfaces ve Abstract soyut nesnelerdir
             //2. örnekte dosyalarla çalışacağız, farklı teknikleri de görmek için
 
+            //***********
+
+            //Demo();
+
+            //***********
+            //senaryo: bir verimiz var ve onu şirketin sql server veya oracle veritabanına yazmak istiyoruz
+            ICustomerDal[] customerDals = new ICustomerDal[3] //Burada bir ICustomerDal Array tanımladım ve 2 elemanlı olacak dedik
+            {
+                //Bir class'ı kullanmak için new yapmak gerekir
+                new SqlServerCustomerDal(),
+                new OracleCustomerDal(),
+                new MySqlCustomerDal()
+            };
+            foreach (var customerDal in customerDals) //CustomerDal'ı gezdim ve herbiri için Add'i çağırdık
+            {
+                customerDal.Add();
+            }
+            //yukarıdakileri bu şekilde kullanmamız durumunda yeni bir veritabanı eklendiğinde programımı bozmak durumunda kalmayacağız | mevcut kodlarımıza dokumamış olacağız
+
+
+
+
+            Console.ReadLine();
+        }
+
+        private static void Demo()
+        {
             CustomerManager customerManager = new CustomerManager();
             //altta new'lediğimizde kolaylıkla veritabanları arasında geçiş yapabiliyoruz
             customerManager.Add(new SqlServerCustomerDal());
             //gerçek hayatta Interface'leri katmanlar arası geçişlerde sıklıkla kullanıyoruz
             //bundaki amaç uygulamanın bağımlılıklarını en aza indirgemek
-
-            Console.ReadLine();
         }
 
         //aşağıdakini refactor yaptık | daha sonra baktığımızda dursun diye
