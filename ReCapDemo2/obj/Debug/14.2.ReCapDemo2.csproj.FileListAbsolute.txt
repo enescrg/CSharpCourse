@@ -1,0 +1,6 @@
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\bin\Debug\ReCapDemo2.exe.config
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\bin\Debug\ReCapDemo2.exe
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\bin\Debug\ReCapDemo2.pdb
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\obj\Debug\14.2.ReCapDemo2.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\obj\Debug\ReCapDemo2.exe
+D:\BTK Akademi\C#\CSharpCourse\ReCapDemo2\obj\Debug\ReCapDemo2.pdb

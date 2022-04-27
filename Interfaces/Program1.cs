@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Interfaces
+//temel amaç imzalar oluşturmak ve onu implemente eden sınıfın bütün imzaları tekrar yazmasını zorunlu hale getirmektir | Inheritance gibi de kullabiliyoruz
 {
-    class Program
+    class Program1
     {
         static void Main(string[] args)
         {

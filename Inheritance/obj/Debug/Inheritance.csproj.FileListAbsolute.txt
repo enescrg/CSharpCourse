@@ -1,0 +1,7 @@
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+D:\BTK Akademi\C#\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

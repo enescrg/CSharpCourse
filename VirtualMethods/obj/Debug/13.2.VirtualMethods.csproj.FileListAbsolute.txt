@@ -1,0 +1,7 @@
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\obj\Debug\13.2.VirtualMethods.csproj.AssemblyReference.cache
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\obj\Debug\13.2.VirtualMethods.csproj.CoreCompileInputs.cache
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+D:\BTK Akademi\C#\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
