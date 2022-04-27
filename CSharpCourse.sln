@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1.AbstractClasses", "Abs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.ReCapDemo2", "ReCapDemo2\15.ReCapDemo2.csproj", "{A889B2DD-C905-4BB2-B919-5BC585D0B45D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfoSourceControlItems", "InfoSourceControlItems\InfoSourceControlItems.csproj", "{AAA4E8E6-2BA4-4946-B282-B6AE82C23445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A889B2DD-C905-4BB2-B919-5BC585D0B45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A889B2DD-C905-4BB2-B919-5BC585D0B45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A889B2DD-C905-4BB2-B919-5BC585D0B45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA4E8E6-2BA4-4946-B282-B6AE82C23445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4E8E6-2BA4-4946-B282-B6AE82C23445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4E8E6-2BA4-4946-B282-B6AE82C23445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4E8E6-2BA4-4946-B282-B6AE82C23445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
